@@ -1,0 +1,361 @@
+Airline Name,Year,Quarter,CO2 Emissions (thousands of kg),Revenue (billion of dollars $)
+Alaska Airlines,2010,1,229382.9685,0.83
+Alaska Airlines,2010,2,252378.8505,0.976
+Alaska Airlines,2010,3,271203.786,1.068
+Alaska Airlines,2010,4,260968.9005,0.958
+Alaska Airlines,2011,1,263813.1615,0.965
+Alaska Airlines,2011,2,276905.034,1.11
+Alaska Airlines,2011,3,287575.785,1.198
+Alaska Airlines,2011,4,271970.5275,1.045
+Alaska Airlines,2012,1,274611.1725,1.039
+Alaska Airlines,2012,2,296143.5645,1.214
+Alaska Airlines,2012,3,306133.4745,1.272
+Alaska Airlines,2012,4,291116.7945,1.132
+Alaska Airlines,2013,1,295519.9905,1.133
+Alaska Airlines,2013,2,282937.158,1.256
+Alaska Airlines,2013,3,299002.6725,1.557
+Alaska Airlines,2013,4,304294.5675,1.21
+Alaska Airlines,2014,1,303963.6915,1.222
+Alaska Airlines,2014,2,322193.6865,1.375
+Alaska Airlines,2014,3,341352.6795,1.465
+Alaska Airlines,2014,4,296719.416,1.306
+Alaska Airlines,2015,1,327172.734,1.269
+Alaska Airlines,2015,2,348266.079,1.437
+Alaska Airlines,2015,3,359484.048,1.515
+Alaska Airlines,2015,4,358803.207,1.377
+Alaska Airlines,2016,1,358128.729,1.347
+Alaska Airlines,2016,2,374739.3405,1.494
+Alaska Airlines,2016,3,379139.355,1.566
+Alaska Airlines,2016,4,362067.426,1.518
+Alaska Airlines,2017,1,375343.8255,1.74
+Alaska Airlines,2017,2,404460.9135,2.102
+Alaska Airlines,2017,3,382241.3175,2.11
+Alaska Airlines,2017,4,375853.926,1.942
+Alaska Airlines,2018,1,443177.6475,1.832
+Alaska Airlines,2018,2,597794.3055,2.156
+Alaska Airlines,2018,3,605693.97,2.212
+Alaska Airlines,2018,4,563380.02,2.064
+Alaska Airlines,2019,1,537018.111,1.876
+Alaska Airlines,2019,2,594609.624,2.288
+Alaska Airlines,2019,3,613256.3955,2.389
+Alaska Airlines,2019,4,577512.243,2.228
+American Airlines,2010,1,1900780.812,5.068
+American Airlines,2010,2,2001503.921,5.674
+American Airlines,2010,3,2050311.312,5.842
+American Airlines,2010,4,1937364.881,5.586
+American Airlines,2011,1,1895887.665,5.533
+American Airlines,2011,2,1992369.834,6.114
+American Airlines,2011,3,2015833.397,6.376
+American Airlines,2011,4,1864349.456,9.956
+American Airlines,2012,1,1881971.784,6.037
+American Airlines,2012,2,1918858.095,6.452
+American Airlines,2012,3,1964426.72,6.429
+American Airlines,2012,4,1888140.713,5.937
+American Airlines,2013,1,1880912.345,6.098
+American Airlines,2013,2,1979284.325,6.449
+American Airlines,2013,3,2040445.481,6.828
+American Airlines,2013,4,1924692.966,7.368
+American Airlines,2014,1,1907576.496,9.995
+American Airlines,2014,2,1986589.049,11.355
+American Airlines,2014,3,2028508.493,11.139
+American Airlines,2014,4,1932179.036,10.161
+American Airlines,2015,1,1853853.687,9.827
+American Airlines,2015,2,1999117.796,10.827
+American Airlines,2015,3,2454160.317,10.706
+American Airlines,2015,4,2776141.904,9.63
+American Airlines,2016,1,2688816.092,9.435
+American Airlines,2016,2,2953100.115,10.363
+American Airlines,2016,3,3023233.101,10.594
+American Airlines,2016,4,2719193.054,9.75
+American Airlines,2017,1,2637854.825,9.82
+American Airlines,2017,2,2963748.596,11.227
+American Airlines,2017,3,3003208.74,10.965
+American Airlines,2017,4,2746483.961,10.61
+American Airlines,2018,1,2679246.14,10.401
+American Airlines,2018,2,2996304.885,11.643
+American Airlines,2018,3,3105923.468,11.559
+American Airlines,2018,4,2782899.41,10.938
+American Airlines,2019,1,2706832.926,10.584
+American Airlines,2019,2,2980788.71,11.96
+American Airlines,2019,3,3115019.376,11.911
+American Airlines,2019,4,2841295.842,11.313
+Delta Air Lines,2010,1,2204448.624,6.848
+Delta Air Lines,2010,2,2477494.499,8.168
+Delta Air Lines,2010,3,2711115.225,8.95
+Delta Air Lines,2010,4,2396369.43,7.789
+Delta Air Lines,2011,1,2347243.889,7.747
+Delta Air Lines,2011,2,2558345.958,9.153
+Delta Air Lines,2011,3,2703829.59,9.186
+Delta Air Lines,2011,4,2294844.584,8.399
+Delta Air Lines,2012,1,2240281.859,8.413
+Delta Air Lines,2012,2,2501874.333,9.732
+Delta Air Lines,2012,3,2673443.084,9.923
+Delta Air Lines,2012,4,2310398.937,8.602
+Delta Air Lines,2013,1,2260792.989,8.5
+Delta Air Lines,2013,2,2569656.191,9.707
+Delta Air Lines,2013,3,2779151.603,10.49
+Delta Air Lines,2013,4,2407587.399,9.076
+Delta Air Lines,2014,1,2308050.99,8.916
+Delta Air Lines,2014,2,2656126.179,10.621
+Delta Air Lines,2014,3,2874020.751,11.178
+Delta Air Lines,2014,4,2493825.138,9.647
+Delta Air Lines,2015,1,2435673.681,9.388
+Delta Air Lines,2015,2,2786065.002,10.707
+Delta Air Lines,2015,3,2984488.794,11.107
+Delta Air Lines,2015,4,2510798.441,9.502
+Delta Air Lines,2016,1,2480755.536,9.251
+Delta Air Lines,2016,2,2824608.875,10.447
+Delta Air Lines,2016,3,2988131.612,10.483
+Delta Air Lines,2016,4,2497922.91,9.269
+Delta Air Lines,2017,1,2441763.072,9.101
+Delta Air Lines,2017,2,2836154.538,10.747
+Delta Air Lines,2017,3,3024798.399,11.061
+Delta Air Lines,2017,4,2562520.086,10.229
+Delta Air Lines,2018,1,2525729.22,9.968
+Delta Air Lines,2018,2,2909580.377,11.775
+Delta Air Lines,2018,3,3111271.569,11.953
+Delta Air Lines,2018,4,2622399.098,10.742
+Delta Air Lines,2019,1,2589950.979,10.472
+Delta Air Lines,2019,2,3007156.982,12.536
+Delta Air Lines,2019,3,3188861.991,12.56
+Delta Air Lines,2019,4,2714703.957,11.439
+Hawaiian Airlines,2010,1,103239.675,0.298
+Hawaiian Airlines,2010,2,108355.527,0.316
+Hawaiian Airlines,2010,3,118889.4735,0.352
+Hawaiian Airlines,2010,4,115975.2195,0.344
+Hawaiian Airlines,2011,1,121456.944,0.366
+Hawaiian Airlines,2011,2,128586.6855,0.395
+Hawaiian Airlines,2011,3,136101.3885,0.456
+Hawaiian Airlines,2011,4,133705.719,0.434
+Hawaiian Airlines,2012,1,136925.397,0.435
+Hawaiian Airlines,2012,2,150284.5155,0.485
+Hawaiian Airlines,2012,3,172834.9875,0.549
+Hawaiian Airlines,2012,4,172850.895,0.493
+Hawaiian Airlines,2013,1,171190.152,0.491
+Hawaiian Airlines,2013,2,179363.4255,0.534
+Hawaiian Airlines,2013,3,187978.9275,0.599
+Hawaiian Airlines,2013,4,179159.8095,0.532
+Hawaiian Airlines,2014,1,174769.3395,0.525
+Hawaiian Airlines,2014,2,180785.556,0.576
+Hawaiian Airlines,2014,3,191099.979,0.639
+Hawaiian Airlines,2014,4,183416.6565,0.575
+Hawaiian Airlines,2015,1,180445.1355,0.54
+Hawaiian Airlines,2015,2,183652.0875,0.571
+Hawaiian Airlines,2015,3,194405.5575,0.632
+Hawaiian Airlines,2015,4,184056.138,0.574
+Hawaiian Airlines,2016,1,183986.145,0.551
+Hawaiian Airlines,2016,2,189929.187,0.595
+Hawaiian Airlines,2016,3,206247.1005,0.672
+Hawaiian Airlines,2016,4,195538.1715,0.615
+Hawaiian Airlines,2017,1,196355.817,0.606
+Hawaiian Airlines,2017,2,205229.0205,0.67
+Hawaiian Airlines,2017,3,213491.376,0.716
+Hawaiian Airlines,2017,4,211203.8775,0.683
+Hawaiian Airlines,2018,1,207621.5085,0.665
+Hawaiian Airlines,2018,2,218317.7115,0.715
+Hawaiian Airlines,2018,3,229192.0785,0.759
+Hawaiian Airlines,2018,4,215037.585,0.697
+Hawaiian Airlines,2019,1,205200.387,0.657
+Hawaiian Airlines,2019,2,214044.957,0.712
+Hawaiian Airlines,2019,3,221346.4995,0.755
+Hawaiian Airlines,2019,4,216892.3995,0.708
+JetBlue Airways,2010,1,370065.717,0.871
+JetBlue Airways,2010,2,385394.184,0.94
+JetBlue Airways,2010,3,410566.212,1.03
+JetBlue Airways,2010,4,381503.2095,0.938
+JetBlue Airways,2011,1,381398.22,1.012
+JetBlue Airways,2011,2,422608.1895,1.151
+JetBlue Airways,2011,3,444484.1835,1.195
+JetBlue Airways,2011,4,421112.8845,1.146
+JetBlue Airways,2012,1,424288.0215,1.203
+JetBlue Airways,2012,2,445270.014,1.277
+JetBlue Airways,2012,3,482286.7665,1.308
+JetBlue Airways,2012,4,440243.244,1.194
+JetBlue Airways,2013,1,452377.485,1.299
+JetBlue Airways,2013,2,483123.501,1.335
+JetBlue Airways,2013,3,508168.269,1.442
+JetBlue Airways,2013,4,478303.5285,1.365
+JetBlue Airways,2014,1,469710.297,1.349
+JetBlue Airways,2014,2,512336.034,1.493
+JetBlue Airways,2014,3,536839.947,1.529
+JetBlue Airways,2014,4,513271.395,1.446
+JetBlue Airways,2015,1,517022.3835,1.523
+JetBlue Airways,2015,2,553590.5445,1.612
+JetBlue Airways,2015,3,588418.425,1.687
+JetBlue Airways,2015,4,565715.241,1.594
+JetBlue Airways,2016,1,582090.4215,1.616
+JetBlue Airways,2016,2,607984.65,1.643
+JetBlue Airways,2016,3,629797.014,1.732
+JetBlue Airways,2016,4,594266.022,1.593
+JetBlue Airways,2017,1,607160.6415,1.6
+JetBlue Airways,2017,2,642265.3125,1.836
+JetBlue Airways,2017,3,651437.577,1.818
+JetBlue Airways,2017,4,618544.0485,1.758
+JetBlue Airways,2018,1,633786.615,1.754
+JetBlue Airways,2018,2,684824.238,1.928
+JetBlue Airways,2018,3,707444.703,2.008
+JetBlue Airways,2018,4,675333.8235,1.968
+JetBlue Airways,2019,1,678375.3375,1.871
+JetBlue Airways,2019,2,714237.2055,2.105
+JetBlue Airways,2019,3,727198.6365,2.086
+JetBlue Airways,2019,4,697314.807,2.032
+SkyWest Airline,2010,1,91334.502,0.632
+SkyWest Airline,2010,2,100449.4995,0.65
+SkyWest Airline,2010,3,102892.8915,0.687
+SkyWest Airline,2010,4,92136.24,0.796
+SkyWest Airline,2011,1,91261.3275,0.866
+SkyWest Airline,2011,2,96507.621,0.934
+SkyWest Airline,2011,3,101031.714,0.955
+SkyWest Airline,2011,4,89514.684,0.9
+SkyWest Airline,2012,1,85175.118,0.921
+SkyWest Airline,2012,2,91436.31,0.937
+SkyWest Airline,2012,3,51638.9265,0.865
+SkyWest Airline,2012,4,37204.461,0.811
+SkyWest Airline,2013,1,33316.668,0.803
+SkyWest Airline,2013,2,34958.322,0.839
+SkyWest Airline,2013,3,37586.241,0.851
+SkyWest Airline,2013,4,36157.7475,0.804
+SkyWest Airline,2014,1,36803.592,0.772
+SkyWest Airline,2014,2,46484.8965,0.817
+SkyWest Airline,2014,3,43643.817,0.835
+SkyWest Airline,2014,4,40678.659,0.814
+SkyWest Airline,2015,1,38079.3735,0.76
+SkyWest Airline,2015,2,41384.952,0.788
+SkyWest Airline,2015,3,49246.4385,0.794
+SkyWest Airline,2015,4,47337.5385,0.753
+SkyWest Airline,2016,1,53452.3815,0.762
+SkyWest Airline,2016,2,59910.8265,0.801
+SkyWest Airline,2016,3,59439.9645,0.8
+SkyWest Airline,2016,4,53169.228,0.701
+SkyWest Airline,2017,1,54680.4405,0.747
+SkyWest Airline,2017,2,61997.8905,0.792
+SkyWest Airline,2017,3,67148.739,0.813
+SkyWest Airline,2017,4,71516.9385,0.771
+SkyWest Airline,2018,1,73289.034,0.783
+SkyWest Airline,2018,2,77192.7345,0.806
+SkyWest Airline,2018,3,79349.7915,0.829
+SkyWest Airline,2018,4,80886.456,0.803
+SkyWest Airline,2019,1,77030.478,0.724
+SkyWest Airline,2019,2,82769.904,0.744
+SkyWest Airline,2019,3,86511.348,0.76
+SkyWest Airline,2019,4,85156.029,0.744
+Southwest Airlines,2010,1,1047394.341,2.63
+Southwest Airlines,2010,2,1182716.262,3.168
+Southwest Airlines,2010,3,1191554.469,3.192
+Southwest Airlines,2010,4,1149205.523,3.114
+Southwest Airlines,2011,1,1131440.027,3.103
+Southwest Airlines,2011,2,1251048.519,4.136
+Southwest Airlines,2011,3,1240034.166,4.311
+Southwest Airlines,2011,4,1171625.553,4.108
+Southwest Airlines,2012,1,1146501.248,3.991
+Southwest Airlines,2012,2,1542209.855,4.616
+Southwest Airlines,2012,3,1519563.938,4.309
+Southwest Airlines,2012,4,1411548.831,4.172
+Southwest Airlines,2013,1,1374932.948,4.084
+Southwest Airlines,2013,2,1521425.115,4.643
+Southwest Airlines,2013,3,1482505.826,4.545
+Southwest Airlines,2013,4,1406668.41,4.427
+Southwest Airlines,2014,1,1343846.511,4.166
+Southwest Airlines,2014,2,1493322.926,5.011
+Southwest Airlines,2014,3,1481265.041,4.8
+Southwest Airlines,2014,4,1410483.029,4.628
+Southwest Airlines,2015,1,1381671.365,4.414
+Southwest Airlines,2015,2,1567302.345,5.111
+Southwest Airlines,2015,3,1569437.132,5.318
+Southwest Airlines,2015,4,1528783.925,4.977
+Southwest Airlines,2016,1,1501871.616,4.826
+Southwest Airlines,2016,2,1631937.699,5.384
+Southwest Airlines,2016,3,1630595.106,5.139
+Southwest Airlines,2016,4,1585662.782,4.49
+Southwest Airlines,2017,1,1550084.067,4.854
+Southwest Airlines,2017,2,1702783.341,5.731
+Southwest Airlines,2017,3,1658773.652,5.303
+Southwest Airlines,2017,4,1593085.221,5.258
+Southwest Airlines,2018,1,1556084.376,4.944
+Southwest Airlines,2018,2,1727185.446,5.742
+Southwest Airlines,2018,3,1702277.483,5.575
+Southwest Airlines,2018,4,1677534.957,5.704
+Southwest Airlines,2019,1,1569764.826,5.149
+Southwest Airlines,2019,2,1693143.396,5.909
+Southwest Airlines,2019,3,1668120.899,5.639
+Southwest Airlines,2019,4,1675412.897,5.731
+Spirit Airlines,2010,1,76989.1185,
+Spirit Airlines,2010,2,79426.1475,
+Spirit Airlines,2010,3,91598.5665,
+Spirit Airlines,2010,4,91223.1495,
+Spirit Airlines,2011,1,82967.157,0.233
+Spirit Airlines,2011,2,99466.416,0.276
+Spirit Airlines,2011,3,100662.66,0.289
+Spirit Airlines,2011,4,95292.288,0.274
+Spirit Airlines,2012,1,104130.495,0.301
+Spirit Airlines,2012,2,113989.9635,0.346
+Spirit Airlines,2012,3,120136.6215,0.342
+Spirit Airlines,2012,4,116665.605,0.328
+Spirit Airlines,2013,1,122894.982,0.37
+Spirit Airlines,2013,2,135795.9645,0.407
+Spirit Airlines,2013,3,144828.243,0.457
+Spirit Airlines,2013,4,143476.1055,0.42
+Spirit Airlines,2014,1,148502.8755,0.438
+Spirit Airlines,2014,2,157169.2815,0.499
+Spirit Airlines,2014,3,164439.009,0.52
+Spirit Airlines,2014,4,167766.858,0.474
+Spirit Airlines,2015,1,180467.406,0.493
+Spirit Airlines,2015,2,200669.931,0.553
+Spirit Airlines,2015,3,215333.4645,0.575
+Spirit Airlines,2015,4,211467.942,0.52
+Spirit Airlines,2016,1,208544.1435,0.538
+Spirit Airlines,2016,2,245016.8595,0.584
+Spirit Airlines,2016,3,249073.272,0.621
+Spirit Airlines,2016,4,244752.795,0.576
+Spirit Airlines,2017,1,251542.116,0.59
+Spirit Airlines,2017,2,275861.502,0.7
+Spirit Airlines,2017,3,287209.9125,0.687
+Spirit Airlines,2017,4,282641.2785,0.666
+Spirit Airlines,2018,1,302252.0445,0.704
+Spirit Airlines,2018,2,337697.136,0.852
+Spirit Airlines,2018,3,348708.3075,0.904
+Spirit Airlines,2018,4,323224.4925,0.863
+Spirit Airlines,2019,1,349420.9635,0.856
+Spirit Airlines,2019,2,389561.949,1.013
+Spirit Airlines,2019,3,388375.2495,0.992
+Spirit Airlines,2019,4,370931.085,0.97
+United Airlines,2010,1,1407568.775,4.241
+United Airlines,2010,2,1576111.919,5.161
+United Airlines,2010,3,1652582.453,5.417
+United Airlines,2010,4,1516528.787,8.506
+United Airlines,2011,1,1419276.695,8.202
+United Airlines,2011,2,1548337.424,9.809
+United Airlines,2011,3,1607704.214,10.171
+United Airlines,2011,4,1416254.27,8.928
+United Airlines,2012,1,2508552.302,8.602
+United Airlines,2012,2,2696047.641,9.939
+United Airlines,2012,3,2764443.528,9.909
+United Airlines,2012,4,2424322.089,8.702
+United Airlines,2013,1,2376927.284,8.721
+United Airlines,2013,2,2625042.924,10.001
+United Airlines,2013,3,2702951.496,10.228
+United Airlines,2013,4,2464558.52,9.329
+United Airlines,2014,1,2367376.421,8.696
+United Airlines,2014,2,2608537.302,10.329
+United Airlines,2014,3,2682061.767,10.563
+United Airlines,2014,4,2432123.127,9.313
+United Airlines,2015,1,2328603.48,8.608
+United Airlines,2015,2,2635357.347,9.914
+United Airlines,2015,3,2727274.064,10.306
+United Airlines,2015,4,2474573.882,9.036
+United Airlines,2016,1,2321705.988,8.195
+United Airlines,2016,2,2633286.191,9.396
+United Airlines,2016,3,2812178.754,9.913
+United Airlines,2016,4,2541579.453,9.054
+United Airlines,2017,1,2402509.725,8.426
+United Airlines,2017,2,2745535.874,10.08
+United Airlines,2017,3,2875856.477,9.899
+United Airlines,2017,4,2588802.458,9.451
+United Airlines,2018,1,2440849.982,9.032
+United Airlines,2018,2,2808030.078,10.777
+United Airlines,2018,3,2947452.953,11.003
+United Airlines,2018,4,2718047.714,10.491
+United Airlines,2019,1,2574775.224,9.589
+United Airlines,2019,2,2914285.815,11.402
+United Airlines,2019,3,2861224.758,11.38
+United Airlines,2019,4,2801352.11,10.888
