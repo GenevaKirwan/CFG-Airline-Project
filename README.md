@@ -27,5 +27,4 @@ In order to run the ProjectCode.ipynb file you must have Python 3 installed on y
 * Pandas
 * Matplotlib
 * Seaborn
-* mysql.connector ** You will also need to have MySQL workbench
 * sodapy
