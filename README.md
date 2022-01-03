@@ -13,7 +13,6 @@ The input data files required for the code have been included within this branch
 
 In some cases due to file size data has not been added to this GitHub branch. In these cases the data MUST be downloaded and saved in the same folder as the other data files BEFORE the code is run:*
 
-*
 ### Files Outputted by Code:
 The code will output some files whilst it runs in case this data is required. If not needed these generated files can be deleted, this will not prevent the code from running future iterations. 
 
